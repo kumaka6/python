@@ -11,3 +11,24 @@ Abstraction (private, public, protected)
 concept of incaptulation says that you are not suppose allow user to directly change the value.
 use need to create the capsule.
 
+
+class
+object
+constructor
+inheritance
+private
+public
+protected
+abstraction
+encaptulations
+polymorpsim
+package
+modules
+method overrridding
+
+For all the concepts that we have discussed in our class point by point you have to write
+atleast 10 examples
+
+you have to make sure that use ineuron studnets , class , class type , number of courses
+, affiliates , blog, internship , jobs as a reference example
+
