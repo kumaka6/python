@@ -1,0 +1,13 @@
+Inheritance
+
+classes, modules, objects
+
+Abstraction (private, public, protected)
+
+> single inheritance
+> multiple inheritance
+> multilevel inheritance
+
+concept of incaptulation says that you are not suppose allow user to directly change the value.
+use need to create the capsule.
+
