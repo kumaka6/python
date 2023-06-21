@@ -5,3 +5,5 @@ This repository contains python challenges and problem statements from multiple 
 *Python challenges from hackerranker, freecodechamp , etc.,
 
 PYnative : https://pynative.com/python-basic-exercise-for-beginners/
+
+Daily challenge to be added soon
