@@ -32,3 +32,5 @@ atleast 10 examples
 you have to make sure that use ineuron studnets , class , class type , number of courses
 , affiliates , blog, internship , jobs as a reference example
 
+
+__update
