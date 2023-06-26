@@ -6,4 +6,4 @@ This repository contains python challenges and problem statements from multiple 
 
 PYnative : https://pynative.com/python-basic-exercise-for-beginners/
 
-Daily challenge to be added soon
+
