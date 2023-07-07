@@ -56,8 +56,8 @@ while statement - the loop statement repeatedly executes a code while particular
 for statment - in loop , we can iterate any sequence or iterable variable.
                 the sequence can be string, list, set, tuple, dict
 try statement - specifies exception handling 
-with statement - Used to cleanup code for a group of statements, while the with statement allows the execution of 
-                initialization and finalization code around a block of code.
+with statement - Used to cleanup code for a group of statements, while the with statement allows the execution of initialization and finalization code around a block of code.
+
 pass - useful as placeholder, nothing happens.
 del - used to delete variable
 
